@@ -9,7 +9,7 @@
 
 ### Group X - (Name_1 - Name_2 - Name_3)
 
-### Group 1 - (Add here the integrant's names here)
+### Group 1 - (Add the integrant's names here)
 
   - Define events and browser events in JavaScript.
   - Explain with code examples.
@@ -17,7 +17,7 @@
   - Explain prototypes.
   - Include a practice exercise.
 
-### Group 2 - (Add here the integrant's names here)
+### Group 2 - (Add the integrant's names here)
 
   - Explain hoisting in JavaScript.
   - Define scope and its types.
@@ -26,7 +26,7 @@
   - Discuss mutability vs. immutability.
   - Include a practice exercise.
 
-### Group 3 - (Add here the integrant's names here)
+### Group 3 - (Add the integrant's names here)
 
   - Compare objects and arrays.
   - Define object methods with examples.
@@ -34,14 +34,14 @@
   - Discuss mutability of array methods.
   - Include a practice exercise.
 
-### Group 4 - (Add here the integrant's names here)
+### Group 4 - (Add the integrant's names here)
 
   - Explain template literals with examples.
   - Define the spread operator.
   - Explain destructuring with code examples.
   - Include a practice exercise.
 
-### Group 5 - (Add here the integrant's names here)
+### Group 5 - (Add the integrant's names here)
 
   - Define callbacks in JavaScript.
   - Explain callback hell.
@@ -49,7 +49,7 @@
   - Explain error handling.
   - Include a practice exercise.
 
-### Group 6 - (Add here the integrant's names here)
+### Group 6 - (Add the integrant's names here)
 
   - Define promises.
   - Explain promise states.
@@ -57,7 +57,7 @@
   - Explain error handling.
   - Include a practice exercise.
 
-### Group 7 - (Add here the integrant's names here)
+### Group 7 - (Add the integrant's names here)
 
   - Explain async/await in JavaScript.
   - Discuss error handling with async/await.
