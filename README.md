@@ -2,7 +2,7 @@
 
 ## Deliverables
 
-  - Presentation for the exhibition.
+  - Presentation document power point.
   - Submit practice examples in a folder named "Group X" with a README listing all members' names to this repository presentation-js-g611.
 
 ## Group Instructions
