@@ -2,7 +2,7 @@
 
 ## Deliverables
 
-  - Presentation document power point.
+  - Presentation document power point. (10 - 20 minutes for presentation).
   - Submit practice examples in a folder named "Group X" with a README listing all members' names to this repository presentation-js-g611.
 
 ## Group Instructions
