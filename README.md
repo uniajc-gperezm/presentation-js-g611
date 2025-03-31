@@ -7,9 +7,9 @@
 
 ## Group Instructions
 
-### Group X - (Name_1 - Name_2 - Name_3)
+### Group 1 - (Jefferson Muñoz Díaz - Helen Orejuela Mancilla - Cristian Velasco Sinisterra)
 
-### Group 1 - (Add the integrant's names here)
+### Group 1 - (Jefferson Muñoz - Helen Orejuela - Cristian Velasco)
 
   - Define events and browser events in JavaScript.
   - Explain with code examples.
