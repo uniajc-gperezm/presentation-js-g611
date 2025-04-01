@@ -17,7 +17,7 @@
   - Explain prototypes.
   - Include a practice exercise.
 
-### Group 2 - (Add the integrant's names here)
+### Group 2 - (Santiago Montenegro Lopez, Cristian Camilo Medina)
 
   - Explain hoisting in JavaScript.
   - Define scope and its types.
