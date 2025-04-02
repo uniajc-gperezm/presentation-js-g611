@@ -34,7 +34,7 @@
   - Discuss mutability of array methods.
   - Include a practice exercise.
 
-### Group 4 - (Add the integrant's names here)
+### Group 4 - (Valentina Zuluaga Gonzalez, Richards Alessi Gonzalez Pajon)
 
   - Explain template literals with examples.
   - Define the spread operator.
