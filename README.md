@@ -41,7 +41,7 @@
   - Explain destructuring with code examples.
   - Include a practice exercise.
 
-### Group 5 - (Add the integrant's names here)
+### Group 5 - (Esteban Cardona, Romario Grajales)
 
   - Define callbacks in JavaScript.
   - Explain callback hell.
