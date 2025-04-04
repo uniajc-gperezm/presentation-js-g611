@@ -7,7 +7,7 @@
 
 ## Group Instructions
 
-### Group X - (Name_1 - Name_2 - Name_3)
+### Group X - (Nombre_1 - Nombre_2 - Nombre_3)
 
 ### Group 1 - (Jefferson Muñoz Díaz - Helen Orejuela Mancilla - Cristian Velasco Sinisterra)
 
