@@ -49,7 +49,7 @@
   - Explain error handling.
   - Include a practice exercise.
 
-### Group 6 - (Add the integrant's names here)
+### Group 6 - (Jheny Alexandra Gómez Zúñiga,Brayan Estein Acosta,Santiago Palacios)
 
   - Define promises.
   - Explain promise states.
