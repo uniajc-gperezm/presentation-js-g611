@@ -57,7 +57,7 @@
   - Explain error handling.
   - Include a practice exercise.
 
-### Group 7 - (Add the integrant's names here)
+### Group 7 - (Jose Manuel)
 
   - Explain async/await in JavaScript.
   - Discuss error handling with async/await.
