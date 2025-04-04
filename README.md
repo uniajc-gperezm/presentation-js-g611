@@ -49,7 +49,7 @@
   - Explain error handling.
   - Include a practice exercise.
 
-### Group 6 - (Add the integrant's names here)
+### Group 6 - (Miguel Angel Muñoz Montaño)
 
   - Define promises.
   - Explain promise states.
