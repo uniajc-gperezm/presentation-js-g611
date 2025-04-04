@@ -26,7 +26,7 @@
   - Discuss mutability vs. immutability.
   - Include a practice exercise.
 
-### Group 3 - (Add the integrant's names here)
+### Group 3 - (Harold Valencia - Hans Mera - Jorge Guauque)
 
   - Compare objects and arrays.
   - Define object methods with examples.
