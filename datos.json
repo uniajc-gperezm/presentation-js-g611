@@ -1,0 +1,15 @@
+{
+  "nombre": "Juan Pérez",
+  "edad": 30,
+  "tecnologias": [
+    "JavaScript",
+    "Node.js",
+    "MongoDB"
+  ],
+  "ciudad": "Bogotá",
+  "activo": false,
+  "idiomas": [
+    "español",
+    "inglés"
+  ]
+}

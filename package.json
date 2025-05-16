@@ -1,0 +1,21 @@
+{
+  "name": "manejo-json-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  "node",
+  "json",
+  "filesystem",
+  "fs",
+  "parse",
+  "data",
+  "javascript",
+  "nodejs"],
+  "author": "Johiner y Kevin",
+  "license": "ISC",
+  "description": "El proyecto crea datos iniciales por defecto, luego crea un historial de este, y luego lo modifica."
+}
