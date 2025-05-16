@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo Async/Await con Manejo de Errores</title>
+</head>
+
+<body>
+    <h1>Usuario aleatorio</h1>
+    <button onclick="obtenerUsuario()">Obtener usuario</button>
+    <pre id="resultado"></pre>
+
+    <script>
+        async function obtenerUsuario() {
+            const resultadoElemento = document.getElementById("resultado");
+            resultadoElemento.textContent = " Cargando...";
+
+            try {
+                const respuesta = await fetch("https://randomuser.mer/api/");
+                const datos = await respuesta.json();
+                const usuario = datos.results[0];
+
+                resultadoElemento.textContent = `
+    Nombre: ${usuario.name.first} ${usuario.name.last}
+    País: ${usuario.location.country}
+    Email: ${usuario.email}
+
+        `;
+            } catch (error) {
+                resultadoElemento.textContent = `Ocurrió un error: ${error.message}`;
+                console.error(error);
+            }
+        }
+    </script>
+</body>
+
+</html>
